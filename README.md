@@ -1,4 +1,3 @@
-# murasakiryou.github.io
 <html>
 <body>
   <label for="num">人数:</label>
